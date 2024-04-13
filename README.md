@@ -10,3 +10,9 @@ https://colab.research.google.com/drive/1hpnVyA_eE1fJbCa4jzw4VRUP3Bc39xEt?usp=sh
 Python - can be installed through Anaconda
 Top2Vec - can be installed using the command **pip install top2vec[sentence_encoders]**
 
+## Relevant papers/sources
+
+Top2Vec paper: https://arxiv.org/abs/2008.09470
+HDBSCAN paper: https://arxiv.org/abs/1911.02282
+UMAP paper: https://arxiv.org/abs/1802.03426
+
