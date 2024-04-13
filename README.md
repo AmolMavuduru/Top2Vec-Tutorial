@@ -8,5 +8,5 @@ https://colab.research.google.com/drive/1hpnVyA_eE1fJbCa4jzw4VRUP3Bc39xEt?usp=sh
 ## Dependencies to install
 
 Python - can be installed through Anaconda
-Top2Vec - can be installed using the command pip install top2vec[sentence_encoders]
+Top2Vec - can be installed using the command **pip install top2vec[sentence_encoders]**
 
